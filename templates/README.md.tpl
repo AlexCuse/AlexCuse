@@ -7,7 +7,12 @@ I find myself working primarily in go these days.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+{{range recentPullRequests 5}}
+- [{{.Repo.Name}} - {{.Title}}]({{.URL}}) ({{.State}})
+{{end}}
+
 #### 🌱 My latest projects
+
 {{range recentRepos 2}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
