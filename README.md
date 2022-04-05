@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - edgexfoundry/go-mod-messaging - feat: add NATS JetStream implementation ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/137))
 
-- edgexfoundry/app-functions-sdk-go - fix(triggers): Messaging Publish To Empty Host ([OPEN](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1072))
+- edgexfoundry/app-functions-sdk-go - fix(triggers): Messaging Publish To Empty Host ([CLOSED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1072))
 
 - ThreeDotsLabs/watermill-jetstream - move protobuf marshaler to wmpb package ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/6))
 
