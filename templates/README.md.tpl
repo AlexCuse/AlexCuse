@@ -3,13 +3,13 @@
 I find myself working primarily in go these days.
 
 #### 🔭 Check out what I'm currently working on
-{{range recentPullRequests 5}}
+{{range recentContributions 15}}
 - {{.Repo.Name}} - {{.Title}} ([{{.State}}]({{.URL}}))
 {{end}}
 
 #### 🌱 My latest projects
 
-{{range recentReleases 5}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
