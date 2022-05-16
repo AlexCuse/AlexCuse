@@ -9,7 +9,7 @@ I find myself working primarily in go these days.
 
 #### 🌱 My latest projects
 
-{{range recentRepos 2}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
