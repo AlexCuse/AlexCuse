@@ -18,8 +18,7 @@ I find myself working primarily in go these days.
 #### 🌱 My latest projects
 
 
-- [AlexCuse/edgex-jetstream](https://github.com/AlexCuse/edgex-jetstream) - 
-- [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) - 
+- [ThreeDotsLabs/watermill-amqp](https://github.com/ThreeDotsLabs/watermill-amqp) - AMQP Pub/Sub for the Watermill project.
 
 #### 📫 How to reach me
 
