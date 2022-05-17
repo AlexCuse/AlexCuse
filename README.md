@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/765))
 
-- muesli/markscribe - add recentForks ([OPEN](https://github.com/muesli/markscribe/pull/43))
+- muesli/markscribe - add recentForks for github ([OPEN](https://github.com/muesli/markscribe/pull/43))
 
 - edgexfoundry/edgex-docs - feat(examples): Add NATS RPC to the Example List ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/760))
 
