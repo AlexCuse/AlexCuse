@@ -4,7 +4,13 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I'm currently working on
 
-- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/765))
+- AlexCuse/asynq - options: add task option for &#34;self managed&#34; retry ([OPEN](https://github.com/AlexCuse/asynq/pull/1))
+
+- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [JAKARTA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/771))
+
+- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [KAMAKURA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/770))
+
+- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/765))
 
 - muesli/markscribe - add recentForks for github ([OPEN](https://github.com/muesli/markscribe/pull/43))
 
@@ -17,12 +23,6 @@ I find myself working primarily in go these days.
 - ThreeDotsLabs/watermill-nats - introduce v2 module &#43; jetstream support ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/8))
 
 - edgexfoundry/go-mod-messaging - feat: add NATS JetStream implementation ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/137))
-
-- edgexfoundry/app-functions-sdk-go - fix(triggers): Messaging Publish To Empty Host ([CLOSED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1072))
-
-- ThreeDotsLabs/watermill-jetstream - move protobuf marshaler to wmpb package ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/6))
-
-- ThreeDotsLabs/watermill-jetstream - marshaler: add protobuf option ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/3))
 
 
 #### 🌱 My latest projects
