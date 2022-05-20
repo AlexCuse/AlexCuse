@@ -2,13 +2,17 @@
 
 I find myself working primarily in go these days.
 
-#### 🔭 Check out what I'm currently working on
+#### 🔭 Check out what I've been working on
 {{range recentPullRequests 10}}
 - {{.Repo.Name}} - {{.Title}} ([{{.State}}]({{.URL}}))
 {{end}}
 
-#### 🌱 My latest projects
+#### 🍴 What I'm working on
+{{range recentForks 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{end}}
 
+#### 🌱 What I'm thinking about working on
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
