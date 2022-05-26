@@ -2,9 +2,15 @@
 
 I find myself working primarily in go these days.
 
-#### 🔭 Check out what I'm currently working on
+#### 🔭 Check out what I've been working on
 
-- AlexCuse/asynq - options: add task option for &#34;self managed&#34; retry ([OPEN](https://github.com/AlexCuse/asynq/pull/1))
+- hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
+
+- edgexfoundry/device-sdk-go - fix: Remove MessageBus Options data from configuration after client created ([CLOSED](https://github.com/edgexfoundry/device-sdk-go/pull/1164))
+
+- edgexfoundry/app-functions-sdk-go - fix: Make deep copy of MessageBus Optional map to avoid external adds ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1113))
+
+- AlexCuse/asynq - options: add task option for unlimited retry ([MERGED](https://github.com/AlexCuse/asynq/pull/1))
 
 - edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [JAKARTA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/771))
 
@@ -18,15 +24,21 @@ I find myself working primarily in go these days.
 
 - AlexCuse/edgex-watermill - update edgex packages to v2.2.0 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/10))
 
-- edgexfoundry/edgex-examples - feat(app): Add NATS RPC Example ([MERGED](https://github.com/edgexfoundry/edgex-examples/pull/115))
 
-- ThreeDotsLabs/watermill-nats - introduce v2 module &#43; jetstream support ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/8))
+#### 🍴 What I'm working on
 
-- edgexfoundry/go-mod-messaging - feat: add NATS JetStream implementation ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/137))
+- [AlexCuse/readme-scribe](https://github.com/AlexCuse/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+
+- [AlexCuse/asynq](https://github.com/AlexCuse/asynq) - Simple, reliable, and efficient distributed task queue in Go
+
+- [AlexCuse/watermill-nats](https://github.com/AlexCuse/watermill-nats) - NATS Pub/Sub for the Watermill project.
+
+- [AlexCuse/nats.go](https://github.com/AlexCuse/nats.go) - Golang client for NATS, the cloud native messaging system.
+
+- [AlexCuse/watermill-jetstream](https://github.com/AlexCuse/watermill-jetstream) - 
 
 
-#### 🌱 My latest projects
-
+#### 🌱 What I'm thinking about working on
 
 - [AlexCuse/edgex-jetstream](https://github.com/AlexCuse/edgex-jetstream) - 
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) - 
