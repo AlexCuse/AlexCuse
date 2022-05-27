@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/app-functions-sdk-go - fix(triggers): Pass Child Context to Response Handler [JAKARTA] ([OPEN](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1118))
+
 - hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
 
 - edgexfoundry/device-sdk-go - fix: Remove MessageBus Options data from configuration after client created ([CLOSED](https://github.com/edgexfoundry/device-sdk-go/pull/1164))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - muesli/markscribe - add recentForks for github ([MERGED](https://github.com/muesli/markscribe/pull/43))
 
 - edgexfoundry/edgex-docs - feat(examples): Add NATS RPC to the Example List ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/760))
-
-- AlexCuse/edgex-watermill - update edgex packages to v2.2.0 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/10))
 
 
 #### 🍴 What I'm working on
