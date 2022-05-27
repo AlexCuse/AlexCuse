@@ -8,7 +8,7 @@ I find myself working primarily in go these days.
 
 - edgexfoundry/device-sdk-go - fix: Remove MessageBus Options data from configuration after client created ([CLOSED](https://github.com/edgexfoundry/device-sdk-go/pull/1164))
 
-- edgexfoundry/app-functions-sdk-go - fix: Make deep copy of MessageBus Optional map to avoid external adds ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1113))
+- edgexfoundry/app-functions-sdk-go - fix: (jakarta) Make deep copy of MessageBus Optional map to avoid external adds ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1113))
 
 - AlexCuse/asynq - options: add task option for unlimited retry ([MERGED](https://github.com/AlexCuse/asynq/pull/1))
 
