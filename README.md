@@ -27,6 +27,8 @@ I find myself working primarily in go these days.
 
 #### 🍴 What I'm working on
 
+- [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
+
 - [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
 
 - [AlexCuse/readme-scribe](https://github.com/AlexCuse/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/asynq](https://github.com/AlexCuse/asynq) - Simple, reliable, and efficient distributed task queue in Go
 
 - [AlexCuse/watermill-nats](https://github.com/AlexCuse/watermill-nats) - NATS Pub/Sub for the Watermill project.
-
-- [AlexCuse/nats.go](https://github.com/AlexCuse/nats.go) - Golang client for NATS, the cloud native messaging system.
 
 
 #### 🌱 What I'm thinking about working on
