@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- ThreeDotsLabs/watermill-jetstream - deps: update nats.go to 1.16 ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/7))
+
 - edgexfoundry/app-functions-sdk-go - fix(triggers): Pass Child Context to Response Handler [JAKARTA] ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1118))
 
 - hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/765))
 
 - muesli/markscribe - add recentForks for github ([MERGED](https://github.com/muesli/markscribe/pull/43))
-
-- edgexfoundry/edgex-docs - feat(examples): Add NATS RPC to the Example List ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/760))
 
 
 #### 🍴 What I'm working on
