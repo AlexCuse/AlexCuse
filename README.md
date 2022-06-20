@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- AlexCuse/picklebot - model level in acknowledgements (fix #1) ([OPEN](https://github.com/AlexCuse/picklebot/pull/3))
+- AlexCuse/picklebot - model level in acknowledgements (fix #1) ([MERGED](https://github.com/AlexCuse/picklebot/pull/3))
 
 - ThreeDotsLabs/watermill-jetstream - deps: update nats.go to 1.16 ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/7))
 
