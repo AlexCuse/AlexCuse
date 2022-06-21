@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/app-functions-sdk-go - fix(triggers): MQTT in MessageBus log ([OPEN](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1126))
+
 - AlexCuse/picklebot - model level in acknowledgements (fix #1) ([MERGED](https://github.com/AlexCuse/picklebot/pull/3))
 
 - ThreeDotsLabs/watermill-jetstream - deps: update nats.go to 1.16 ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/7))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [JAKARTA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/771))
 
 - edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [KAMAKURA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/770))
-
-- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/765))
 
 
 #### 🍴 What I'm working on
