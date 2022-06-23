@@ -27,6 +27,8 @@ I find myself working primarily in go these days.
 
 #### 🍴 What I'm working on
 
+- [AlexCuse/stormrpc](https://github.com/AlexCuse/stormrpc) - ⚡ StormRPC is an RPC &#34;framework&#34; built on top of the Request-Reply message capabilities from NATS.
+
 - [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
 
 - [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/readme-scribe](https://github.com/AlexCuse/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 - [AlexCuse/asynq](https://github.com/AlexCuse/asynq) - Simple, reliable, and efficient distributed task queue in Go
-
-- [AlexCuse/watermill-nats](https://github.com/AlexCuse/watermill-nats) - NATS Pub/Sub for the Watermill project.
 
 
 #### 🌱 What I'm thinking about working on
