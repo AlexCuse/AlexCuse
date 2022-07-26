@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/805))
+
 - AlexCuse/picklebot - config/build cleanup ([MERGED](https://github.com/AlexCuse/picklebot/pull/4))
 
 - edgexfoundry/app-functions-sdk-go - fix(triggers): MQTT in MessageBus log ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1126))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/app-functions-sdk-go - fix: (jakarta) Make deep copy of MessageBus Optional map to avoid external adds ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1113))
 
 - AlexCuse/asynq - options: add task option for unlimited retry ([MERGED](https://github.com/AlexCuse/asynq/pull/1))
-
-- edgexfoundry/edgex-docs - feat(microservices): Add Clone to AppFunctionContext [JAKARTA] ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/771))
 
 
 #### 🍴 What I'm working on
