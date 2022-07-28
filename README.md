@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/805))
+- edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/805))
 
 - AlexCuse/picklebot - config/build cleanup ([MERGED](https://github.com/AlexCuse/picklebot/pull/4))
 
