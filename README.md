@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([OPEN](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
+- ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
 
 - edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/805))
 
