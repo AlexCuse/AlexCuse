@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
+
 - ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
 
 - edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/805))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
 
 - edgexfoundry/device-sdk-go - fix: Remove MessageBus Options data from configuration after client created ([CLOSED](https://github.com/edgexfoundry/device-sdk-go/pull/1164))
-
-- edgexfoundry/app-functions-sdk-go - fix: (jakarta) Make deep copy of MessageBus Optional map to avoid external adds ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1113))
 
 
 #### 🍴 What I'm working on
