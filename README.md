@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
+- edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
 
 - ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
 
