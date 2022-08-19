@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/840))
+
 - edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
 
 - ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/app-functions-sdk-go - fix(triggers): Pass Child Context to Response Handler [JAKARTA] ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1118))
 
 - hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
-
-- edgexfoundry/device-sdk-go - fix: Remove MessageBus Options data from configuration after client created ([CLOSED](https://github.com/edgexfoundry/device-sdk-go/pull/1164))
 
 
 #### 🍴 What I'm working on
