@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/840))
+- edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/840))
 
 - edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
 
