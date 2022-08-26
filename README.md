@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/go-mod-messaging - feat: Add File-Based NKEY &amp; Credentials Auth to NATS Client ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/170))
+
 - edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/840))
 
 - edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - ThreeDotsLabs/watermill-jetstream - deps: update nats.go to 1.16 ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/7))
 
 - edgexfoundry/app-functions-sdk-go - fix(triggers): Pass Child Context to Response Handler [JAKARTA] ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1118))
-
-- hibiken/asynq - options: add task option for unlimited retry ([OPEN](https://github.com/hibiken/asynq/pull/477))
 
 
 #### 🍴 What I'm working on
