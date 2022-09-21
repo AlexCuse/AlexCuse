@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/go-mod-messaging - feat: AutoProvision Jetstream Explicitly on Connect ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/173))
+- edgexfoundry/go-mod-messaging - feat: AutoProvision Jetstream Explicitly on Connect ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/173))
 
 - edgexfoundry/go-mod-messaging - feat: Add File-Based NKEY &amp; Credentials Auth to NATS Client ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/170))
 
