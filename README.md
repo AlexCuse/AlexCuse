@@ -4,9 +4,9 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/867))
+- edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
 
-- edgexfoundry/device-sdk-go - fix: Skip Subscription to Empty Command Request Topic ([OPEN](https://github.com/edgexfoundry/device-sdk-go/pull/1216))
+- edgexfoundry/device-sdk-go - fix: Skip Subscription to Empty Command Request Topic ([MERGED](https://github.com/edgexfoundry/device-sdk-go/pull/1216))
 
 - edgexfoundry/go-mod-messaging - feat: AutoProvision Jetstream Explicitly on Connect ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/173))
 
