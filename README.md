@@ -10,7 +10,7 @@ I find myself working primarily in go these days.
 
 - edgexfoundry/go-mod-messaging - feat: AutoProvision Jetstream Explicitly on Connect ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/173))
 
-- edgexfoundry/go-mod-messaging - feat: Add File-Based NKEY &amp; Credentials Auth to NATS Client ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/170))
+- edgexfoundry/go-mod-messaging - feat: Add File-Based NKEY &amp; Credentials Auth to NATS Client ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/170))
 
 - edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/840))
 
