@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/876))
+
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
 
 - edgexfoundry/device-sdk-go - fix: Skip Subscription to Empty Command Request Topic ([MERGED](https://github.com/edgexfoundry/device-sdk-go/pull/1216))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/805))
 
 - AlexCuse/picklebot - config/build cleanup ([MERGED](https://github.com/AlexCuse/picklebot/pull/4))
-
-- edgexfoundry/app-functions-sdk-go - fix(triggers): MQTT in MessageBus log ([MERGED](https://github.com/edgexfoundry/app-functions-sdk-go/pull/1126))
 
 
 #### 🍴 What I'm working on
