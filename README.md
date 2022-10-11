@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/876))
+- edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/876))
 
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
 
