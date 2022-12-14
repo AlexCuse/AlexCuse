@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-go - Embed identities.Claims Type ([OPEN](https://github.com/keratin/authn-go/pull/22))
+
 - edgexfoundry/go-mod-messaging - feat: Jetstream ExactlyOnce Configuration ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/179))
 
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/876))
@@ -22,10 +24,10 @@ I find myself working primarily in go these days.
 
 - ThreeDotsLabs/watermill-jetstream - stop appending UUID to topics by default ([MERGED](https://github.com/ThreeDotsLabs/watermill-jetstream/pull/8))
 
-- edgexfoundry/edgex-docs - feat(microservices): Add NATS MessageBus Overview for App Service Trigger ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/805))
-
 
 #### 🍴 What I'm working on
+
+- [AlexCuse/authn-go](https://github.com/AlexCuse/authn-go) - Go client library for Keratin AuthN
 
 - [AlexCuse/asynqmon](https://github.com/AlexCuse/asynqmon) - Web UI for Asynq task queue
 
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
 
 - [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
-
-- [AlexCuse/readme-scribe](https://github.com/AlexCuse/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 
 #### 🌱 What I'm thinking about working on
