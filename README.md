@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-go - Embed identities.Claims Type ([OPEN](https://github.com/keratin/authn-go/pull/22))
+- keratin/authn-go - Embed identities.Claims Type ([MERGED](https://github.com/keratin/authn-go/pull/22))
 
 - edgexfoundry/go-mod-messaging - feat: Jetstream ExactlyOnce Configuration ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/179))
 
