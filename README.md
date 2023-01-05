@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- hibiken/asynqmon - add UI support for -1 as Unlimited retry ([OPEN](https://github.com/hibiken/asynqmon/pull/286))
+
 - AlexCuse/watermill-nats - feat: add NakDelay to configuration ([OPEN](https://github.com/AlexCuse/watermill-nats/pull/1))
 
 - keratin/authn-go - Embed identities.Claims Type ([MERGED](https://github.com/keratin/authn-go/pull/22))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/go-mod-messaging - feat: Add File-Based NKEY &amp; Credentials Auth to NATS Client ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/170))
 
 - edgexfoundry/edgex-docs - feat(microservices): Reading AES256 Protected Data ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/840))
-
-- edgexfoundry/go-mod-messaging - feat: NATS Client TLS Support ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/165))
 
 
 #### 🍴 What I'm working on
