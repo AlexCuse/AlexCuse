@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - hibiken/asynqmon - add UI support for -1 as Unlimited retry ([OPEN](https://github.com/hibiken/asynqmon/pull/286))
 
-- AlexCuse/watermill-nats - feat: add NakDelay to configuration ([OPEN](https://github.com/AlexCuse/watermill-nats/pull/1))
+- AlexCuse/watermill-nats - feat: add NakDelay to configuration ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/1))
 
 - keratin/authn-go - Embed identities.Claims Type ([MERGED](https://github.com/keratin/authn-go/pull/22))
 
