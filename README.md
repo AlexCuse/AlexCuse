@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([OPEN](https://github.com/AlexCuse/watermill-nats/pull/2))
+
 - DataDog/dd-trace-go - twirp: add tag for HTTP referer ([OPEN](https://github.com/DataDog/dd-trace-go/pull/1680))
 
 - AlexCuse/picklebot - upgrade EdgeX camera trap to v 2.3.0 ([MERGED](https://github.com/AlexCuse/picklebot/pull/7))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
 
 - edgexfoundry/device-sdk-go - fix: Skip Subscription to Empty Command Request Topic ([MERGED](https://github.com/edgexfoundry/device-sdk-go/pull/1216))
-
-- edgexfoundry/go-mod-messaging - feat: AutoProvision Jetstream Explicitly on Connect ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/173))
 
 
 #### 🍴 What I'm working on
