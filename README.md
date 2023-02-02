@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([OPEN](https://github.com/AlexCuse/watermill-nats/pull/2))
+- AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/2))
 
 - DataDog/dd-trace-go - twirp: add tag for HTTP referer ([OPEN](https://github.com/DataDog/dd-trace-go/pull/1680))
 
