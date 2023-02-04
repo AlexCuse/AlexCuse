@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
+
 - AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/2))
 
 - DataDog/dd-trace-go - twirp: add tag for HTTP referer ([OPEN](https://github.com/DataDog/dd-trace-go/pull/1680))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/876))
 
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
-
-- edgexfoundry/device-sdk-go - fix: Skip Subscription to Empty Command Request Topic ([MERGED](https://github.com/edgexfoundry/device-sdk-go/pull/1216))
 
 
 #### 🍴 What I'm working on
