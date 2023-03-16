@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
+
 - ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
 
 - AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/2))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - edgexfoundry/go-mod-messaging - feat: Jetstream ExactlyOnce Configuration ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/179))
 
 - edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/876))
-
-- edgexfoundry/edgex-docs - feat(microservices): Document NATS Subject Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/867))
 
 
 #### 🍴 What I'm working on
