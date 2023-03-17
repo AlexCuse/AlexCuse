@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
+- ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
 - ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
 
