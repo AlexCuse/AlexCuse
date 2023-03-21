@@ -4,6 +4,10 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- ThreeDotsLabs/watermill - docs: include JetStreamConfig detail in nats pubsub documentation ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/358))
+
+- edgexfoundry/go-mod-messaging - docs: update README ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/235))
+
 - ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
 - ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
@@ -19,10 +23,6 @@ I find myself working primarily in go these days.
 - AlexCuse/watermill-nats - feat: add NakDelay to configuration ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/1))
 
 - keratin/authn-go - Embed identities.Claims Type ([MERGED](https://github.com/keratin/authn-go/pull/22))
-
-- edgexfoundry/go-mod-messaging - feat: Jetstream ExactlyOnce Configuration ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/179))
-
-- edgexfoundry/edgex-docs - feat(microservices): Document NATS Authentication Modes ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/876))
 
 
 #### 🍴 What I'm working on
