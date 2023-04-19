@@ -4,6 +4,10 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-go - claims: add SessionID to known claims ([OPEN](https://github.com/keratin/authn-go/pull/23))
+
+- keratin/authn-server - claims: add SessionID to known claims ([OPEN](https://github.com/keratin/authn-server/pull/205))
+
 - ThreeDotsLabs/watermill - docs: include JetStreamConfig detail in nats pubsub documentation ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/358))
 
 - edgexfoundry/go-mod-messaging - docs: update README ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/235))
@@ -20,12 +24,10 @@ I find myself working primarily in go these days.
 
 - hibiken/asynqmon - add UI support for -1 as Unlimited retry ([OPEN](https://github.com/hibiken/asynqmon/pull/286))
 
-- AlexCuse/watermill-nats - feat: add NakDelay to configuration ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/1))
-
-- keratin/authn-go - Embed identities.Claims Type ([MERGED](https://github.com/keratin/authn-go/pull/22))
-
 
 #### 🍴 What I'm working on
+
+- [AlexCuse/authn-server](https://github.com/AlexCuse/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
 
 - [AlexCuse/authn-go](https://github.com/AlexCuse/authn-go) - Go client library for Keratin AuthN
 
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/stormrpc](https://github.com/AlexCuse/stormrpc) - ⚡ StormRPC is an RPC &#34;framework&#34; built on top of the Request-Reply message capabilities from NATS.
 
 - [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
-
-- [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
 
 
 #### 🌱 What I'm thinking about working on
