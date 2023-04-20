@@ -4,9 +4,9 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-go - claims: add SessionID to known claims ([OPEN](https://github.com/keratin/authn-go/pull/23))
+- keratin/authn-go - claims: add SessionID to known claims ([MERGED](https://github.com/keratin/authn-go/pull/23))
 
-- keratin/authn-server - claims: add SessionID to known claims ([OPEN](https://github.com/keratin/authn-server/pull/205))
+- keratin/authn-server - claims: add SessionID to known claims ([MERGED](https://github.com/keratin/authn-server/pull/205))
 
 - ThreeDotsLabs/watermill - docs: include JetStreamConfig detail in nats pubsub documentation ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/358))
 
