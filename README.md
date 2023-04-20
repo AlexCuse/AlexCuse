@@ -27,8 +27,6 @@ I find myself working primarily in go these days.
 
 #### 🍴 What I'm working on
 
-- [AlexCuse/authn-server](https://github.com/AlexCuse/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
-
 - [AlexCuse/authn-go](https://github.com/AlexCuse/authn-go) - Go client library for Keratin AuthN
 
 - [AlexCuse/asynqmon](https://github.com/AlexCuse/asynqmon) - Web UI for Asynq task queue
@@ -36,6 +34,8 @@ I find myself working primarily in go these days.
 - [AlexCuse/stormrpc](https://github.com/AlexCuse/stormrpc) - ⚡ StormRPC is an RPC &#34;framework&#34; built on top of the Request-Reply message capabilities from NATS.
 
 - [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
+
+- [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
 
 
 #### 🌱 What I'm thinking about working on
