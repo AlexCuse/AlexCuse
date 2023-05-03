@@ -4,6 +4,10 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-js - cookies: add optional explicit ttl in seconds ([OPEN](https://github.com/keratin/authn-js/pull/55))
+
+- AlexCuse/authn-js - cookies: add optional explicit expiration ([MERGED](https://github.com/AlexCuse/authn-js/pull/1))
+
 - keratin/authn-go - claims: add SessionID to known claims ([MERGED](https://github.com/keratin/authn-go/pull/23))
 
 - keratin/authn-server - claims: add SessionID to known claims ([MERGED](https://github.com/keratin/authn-server/pull/205))
@@ -20,12 +24,10 @@ I find myself working primarily in go these days.
 
 - DataDog/dd-trace-go - twirp: add tag for HTTP referer ([OPEN](https://github.com/DataDog/dd-trace-go/pull/1680))
 
-- AlexCuse/picklebot - upgrade EdgeX camera trap to v 2.3.0 ([MERGED](https://github.com/AlexCuse/picklebot/pull/7))
-
-- hibiken/asynqmon - add UI support for -1 as Unlimited retry ([OPEN](https://github.com/hibiken/asynqmon/pull/286))
-
 
 #### 🍴 What I'm working on
+
+- [AlexCuse/authn-js](https://github.com/AlexCuse/authn-js) - JavaScript client library for Keratin AuthN
 
 - [AlexCuse/authn-go](https://github.com/AlexCuse/authn-go) - Go client library for Keratin AuthN
 
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/stormrpc](https://github.com/AlexCuse/stormrpc) - ⚡ StormRPC is an RPC &#34;framework&#34; built on top of the Request-Reply message capabilities from NATS.
 
 - [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
-
-- [AlexCuse/edgex-taf](https://github.com/AlexCuse/edgex-taf) - 
 
 
 #### 🌱 What I'm thinking about working on
