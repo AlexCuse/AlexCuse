@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
+
 - keratin/authn-js - cookies: add optional explicit ttl in seconds ([OPEN](https://github.com/keratin/authn-js/pull/55))
 
 - AlexCuse/authn-js - cookies: add optional explicit expiration ([MERGED](https://github.com/AlexCuse/authn-js/pull/1))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
 
 - AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/2))
-
-- DataDog/dd-trace-go - twirp: add tag for HTTP referer ([OPEN](https://github.com/DataDog/dd-trace-go/pull/1680))
 
 
 #### 🍴 What I'm working on
