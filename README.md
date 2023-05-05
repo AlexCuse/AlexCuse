@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
 
-- keratin/authn-js - cookies: add optional explicit ttl in seconds ([OPEN](https://github.com/keratin/authn-js/pull/55))
+- keratin/authn-js - cookies: add explicit TTL from session expiration ([OPEN](https://github.com/keratin/authn-js/pull/55))
 
 - AlexCuse/authn-js - cookies: add optional explicit expiration ([MERGED](https://github.com/AlexCuse/authn-js/pull/1))
 
