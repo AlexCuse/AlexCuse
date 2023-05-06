@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
 
-- keratin/authn-js - cookies: add explicit TTL from session expiration ([OPEN](https://github.com/keratin/authn-js/pull/55))
+- keratin/authn-js - cookies: add option for explicit TTL from session expiration ([MERGED](https://github.com/keratin/authn-js/pull/55))
 
 - AlexCuse/authn-js - cookies: add optional explicit expiration ([MERGED](https://github.com/AlexCuse/authn-js/pull/1))
 
@@ -16,7 +16,7 @@ I find myself working primarily in go these days.
 
 - ThreeDotsLabs/watermill - docs: include JetStreamConfig detail in nats pubsub documentation ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/358))
 
-- edgexfoundry/go-mod-messaging - docs: update README ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/235))
+- edgexfoundry/go-mod-messaging - docs: update README ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/235))
 
 - ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
