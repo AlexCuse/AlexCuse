@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-js - docs: include useExplicitExpiry option in README ([OPEN](https://github.com/keratin/authn-js/pull/56))
+
 - AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
 
 - keratin/authn-js - cookies: add option for explicit TTL from session expiration ([MERGED](https://github.com/keratin/authn-js/pull/55))
@@ -21,8 +23,6 @@ I find myself working primarily in go these days.
 - ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
 - ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
-
-- AlexCuse/watermill-nats - add dynamic calculation of durable / queuegroup name from topic &#43; prefix ([MERGED](https://github.com/AlexCuse/watermill-nats/pull/2))
 
 
 #### 🍴 What I'm working on
