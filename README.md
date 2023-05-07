@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-js - docs: include useExplicitExpiry option in README ([OPEN](https://github.com/keratin/authn-js/pull/56))
+- keratin/authn-js - docs: include useExplicitExpiry option in README ([MERGED](https://github.com/keratin/authn-js/pull/56))
 
 - AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
 
