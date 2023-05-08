@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-server - session: add option to use explicit expiry for refresh token cookies ([OPEN](https://github.com/keratin/authn-server/pull/208))
+
 - keratin/authn-js - docs: include useExplicitExpiry option in README ([MERGED](https://github.com/keratin/authn-js/pull/56))
 
 - AlexCuse/authn-js - match cookie expiration with current session token ([MERGED](https://github.com/AlexCuse/authn-js/pull/2))
@@ -22,10 +24,10 @@ I find myself working primarily in go these days.
 
 - ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
-- ThreeDotsLabs/watermill - docs: update for nats jetstream ([MERGED](https://github.com/ThreeDotsLabs/watermill/pull/334))
-
 
 #### 🍴 What I'm working on
+
+- [AlexCuse/authn-server](https://github.com/AlexCuse/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
 
 - [AlexCuse/authn-js](https://github.com/AlexCuse/authn-js) - JavaScript client library for Keratin AuthN
 
@@ -34,8 +36,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/asynqmon](https://github.com/AlexCuse/asynqmon) - Web UI for Asynq task queue
 
 - [AlexCuse/stormrpc](https://github.com/AlexCuse/stormrpc) - ⚡ StormRPC is an RPC &#34;framework&#34; built on top of the Request-Reply message capabilities from NATS.
-
-- [AlexCuse/watermill-amazonsqs](https://github.com/AlexCuse/watermill-amazonsqs) - 
 
 
 #### 🌱 What I'm thinking about working on
