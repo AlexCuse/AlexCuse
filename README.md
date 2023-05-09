@@ -6,7 +6,7 @@ I find myself working primarily in go these days.
 
 - keratin/authn-server - prepare 1.17.0 ([MERGED](https://github.com/keratin/authn-server/pull/210))
 
-- keratin/authn-server - add docker-local make target to produce test images ([OPEN](https://github.com/keratin/authn-server/pull/209))
+- keratin/authn-server - add docker-local make target to produce test images ([MERGED](https://github.com/keratin/authn-server/pull/209))
 
 - keratin/authn-server - session: add option to use explicit expiry for refresh token cookies ([MERGED](https://github.com/keratin/authn-server/pull/208))
 
