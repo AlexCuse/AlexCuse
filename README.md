@@ -4,7 +4,11 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-server - session: add option to use explicit expiry for refresh token cookies ([OPEN](https://github.com/keratin/authn-server/pull/208))
+- keratin/authn-server - prepare 1.17.0 ([MERGED](https://github.com/keratin/authn-server/pull/210))
+
+- keratin/authn-server - add docker-local make target to produce test images ([OPEN](https://github.com/keratin/authn-server/pull/209))
+
+- keratin/authn-server - session: add option to use explicit expiry for refresh token cookies ([MERGED](https://github.com/keratin/authn-server/pull/208))
 
 - keratin/authn-js - docs: include useExplicitExpiry option in README ([MERGED](https://github.com/keratin/authn-js/pull/56))
 
@@ -19,10 +23,6 @@ I find myself working primarily in go these days.
 - keratin/authn-server - claims: add SessionID to known claims ([MERGED](https://github.com/keratin/authn-server/pull/205))
 
 - ThreeDotsLabs/watermill - docs: include JetStreamConfig detail in nats pubsub documentation ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/358))
-
-- edgexfoundry/go-mod-messaging - docs: update README ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/235))
-
-- ThreeDotsLabs/watermill-nats - chore: update comment for default subject calculator ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/10))
 
 
 #### 🍴 What I'm working on
