@@ -4,6 +4,8 @@ I find myself working primarily in go these days.
 
 #### 🍴 What I'm working on
 
+- [AlexCuse/markscribe](https://github.com/AlexCuse/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+
 - [AlexCuse/watermill-benchmark](https://github.com/AlexCuse/watermill-benchmark) - Benchmarking tools for Watermill.
 
 - [AlexCuse/authn-server](https://github.com/AlexCuse/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
@@ -11,8 +13,6 @@ I find myself working primarily in go these days.
 - [AlexCuse/authn-js](https://github.com/AlexCuse/authn-js) - JavaScript client library for Keratin AuthN
 
 - [AlexCuse/authn-go](https://github.com/AlexCuse/authn-go) - Go client library for Keratin AuthN
-
-- [AlexCuse/asynqmon](https://github.com/AlexCuse/asynqmon) - Web UI for Asynq task queue
 
 
 #### 🌱 What I'm thinking about working on
