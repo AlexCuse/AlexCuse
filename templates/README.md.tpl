@@ -2,6 +2,11 @@
 
 I find myself working primarily in go these days.
 
+#### 🔭 Check out what I've been working on
+{{range recentPullRequests 5}}
+- {{.Repo.Name}} - {{.Title}} ([{{.State}}]({{.URL}}))
+{{end}}
+
 #### 🍴 What I'm working on
 {{range recentForks 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
