@@ -3,7 +3,7 @@
 I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
-{{range recentPullRequests 5}}
+{{range recentPullRequests 2}}
 - {{.Repo.Name}} - {{.Title}} ([{{.State}}]({{.URL}}))
 {{end}}
 
