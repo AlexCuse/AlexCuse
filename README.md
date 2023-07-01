@@ -2,6 +2,13 @@
 
 I find myself working primarily in go these days.
 
+#### 🔭 Check out what I've been working on
+
+- keratin/authn-server - tooling: setup golangci-lint locally (fixes #102) ([MERGED](https://github.com/keratin/authn-server/pull/212))
+
+- keratin/authn-server - feat: add HMAC signature to webhook notifications (fixes #207) ([OPEN](https://github.com/keratin/authn-server/pull/211))
+
+
 #### 🍴 What I'm working on
 
 - [AlexCuse/markscribe](https://github.com/AlexCuse/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
