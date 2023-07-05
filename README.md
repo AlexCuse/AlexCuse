@@ -4,7 +4,7 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-server - tooling: add errcheck linter ([OPEN](https://github.com/keratin/authn-server/pull/213))
+- keratin/authn-server - tooling: add errcheck linter ([MERGED](https://github.com/keratin/authn-server/pull/213))
 
 - keratin/authn-server - tooling: setup golangci-lint locally (fixes #102) ([MERGED](https://github.com/keratin/authn-server/pull/212))
 
