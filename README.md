@@ -4,15 +4,15 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
+- keratin/authn-server - tooling: add gosimple &#43; govet linters ([OPEN](https://github.com/keratin/authn-server/pull/217))
+
 - AlexCuse/edgex-watermill - Update to EdgeX 3.0 / Watermill 1.3 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/12))
 
-- keratin/authn-server - tooling: add staticcheck, unused, ineffassign linters ([OPEN](https://github.com/keratin/authn-server/pull/214))
+- keratin/authn-server - tooling: add staticcheck, unused, ineffassign linters ([MERGED](https://github.com/keratin/authn-server/pull/214))
 
 - keratin/authn-server - tooling: add errcheck linter ([MERGED](https://github.com/keratin/authn-server/pull/213))
 
 - keratin/authn-server - tooling: setup golangci-lint locally (fixes #102) ([MERGED](https://github.com/keratin/authn-server/pull/212))
-
-- keratin/authn-server - feat: add HMAC signature to webhook notifications (fixes #207) ([MERGED](https://github.com/keratin/authn-server/pull/211))
 
 
 #### 🍴 What I'm working on
