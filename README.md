@@ -4,15 +4,15 @@ I find myself working primarily in go these days.
 
 #### 🔭 Check out what I've been working on
 
-- keratin/authn-server - ci: add lint step ([OPEN](https://github.com/keratin/authn-server/pull/218))
+- keratin/authn-server - prepare 1.17.1 ([OPEN](https://github.com/keratin/authn-server/pull/219))
+
+- keratin/authn-server - ci: add lint step ([MERGED](https://github.com/keratin/authn-server/pull/218))
 
 - AlexCuse/authn-server - feat: add TOTP MFA ([OPEN](https://github.com/AlexCuse/authn-server/pull/1))
 
 - keratin/authn-server - tooling: add gosimple &#43; govet linters ([MERGED](https://github.com/keratin/authn-server/pull/217))
 
 - AlexCuse/edgex-watermill - Update to EdgeX 3.0 / Watermill 1.3 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/12))
-
-- keratin/authn-server - tooling: add staticcheck, unused, ineffassign linters ([MERGED](https://github.com/keratin/authn-server/pull/214))
 
 
 #### 🍴 What I'm working on
