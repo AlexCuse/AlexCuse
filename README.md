@@ -2,9 +2,13 @@
 
 I find myself working primarily in go these days.
 
-#### 🔭 Check out what I've been working on
+Some of my favorite current projects on here include the [EdgeXFoundry](https://github.com/EdgeXFoundry) and [watermill](https://github.com/ThreeDotsLabs/watermill) ecosystems.  I can often be found working there or on [authn-server](https://github.com/keratin/authn-server).
 
-- keratin/authn-server - prepare 1.17.1 ([OPEN](https://github.com/keratin/authn-server/pull/219))
+I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package for ASP.net content delivery optimization.  If you are still using it in a legacy application and having issues please get in touch [here](https://github.com/AlexCuse/SquishIt/issues).
+
+#### 🔭 Newest PRs
+
+- keratin/authn-server - prepare 1.17.1 ([MERGED](https://github.com/keratin/authn-server/pull/219))
 
 - keratin/authn-server - ci: add lint step ([MERGED](https://github.com/keratin/authn-server/pull/218))
 
@@ -15,20 +19,7 @@ I find myself working primarily in go these days.
 - AlexCuse/edgex-watermill - Update to EdgeX 3.0 / Watermill 1.3 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/12))
 
 
-#### 🍴 What I'm working on
-
-- [AlexCuse/authn-demo](https://github.com/AlexCuse/authn-demo) - tiny Sinatra app using AuthN
-
-- [AlexCuse/markscribe](https://github.com/AlexCuse/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-
-- [AlexCuse/watermill-benchmark](https://github.com/AlexCuse/watermill-benchmark) - Benchmarking tools for Watermill.
-
-- [AlexCuse/authn-server](https://github.com/AlexCuse/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
-
-- [AlexCuse/authn-js](https://github.com/AlexCuse/authn-js) - JavaScript client library for Keratin AuthN
-
-
-#### 🌱 What I'm thinking about working on
+#### 🌱 Newest Repos (forks excluded)
 
 - [AlexCuse/watermill-pulsar](https://github.com/AlexCuse/watermill-pulsar) - 
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) - 
