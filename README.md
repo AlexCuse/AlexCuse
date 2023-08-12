@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- ThreeDotsLabs/watermill-nats - jetstream: support new pull subscriber API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/12))
+
 - keratin/authn-server - prepare 1.17.1 ([MERGED](https://github.com/keratin/authn-server/pull/219))
 
 - keratin/authn-server - ci: add lint step ([MERGED](https://github.com/keratin/authn-server/pull/218))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - AlexCuse/authn-server - feat: add TOTP MFA ([OPEN](https://github.com/AlexCuse/authn-server/pull/1))
 
 - keratin/authn-server - tooling: add gosimple &#43; govet linters ([MERGED](https://github.com/keratin/authn-server/pull/217))
-
-- AlexCuse/edgex-watermill - Update to EdgeX 3.0 / Watermill 1.3 ([OPEN](https://github.com/AlexCuse/edgex-watermill/pull/12))
 
 
 #### 🌱 Newest Repos (forks excluded)
