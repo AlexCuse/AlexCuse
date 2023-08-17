@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- plaid/plaid-go - use interface for easier PlaidError test setup ([OPEN](https://github.com/plaid/plaid-go/pull/280))
+
 - ThreeDotsLabs/watermill-nats - jetstream: support new pull subscriber API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/12))
 
 - keratin/authn-server - prepare 1.17.1 ([MERGED](https://github.com/keratin/authn-server/pull/219))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - ci: add lint step ([MERGED](https://github.com/keratin/authn-server/pull/218))
 
 - AlexCuse/authn-server - feat: add TOTP MFA ([OPEN](https://github.com/AlexCuse/authn-server/pull/1))
-
-- keratin/authn-server - tooling: add gosimple &#43; govet linters ([MERGED](https://github.com/keratin/authn-server/pull/217))
 
 
 #### 🌱 Newest Repos (forks excluded)
