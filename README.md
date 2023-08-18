@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- plaid/plaid-go - use interface for easier PlaidError test setup ([OPEN](https://github.com/plaid/plaid-go/pull/280))
+- plaid/plaid-go - Add helper function for easier PlaidError test setup ([OPEN](https://github.com/plaid/plaid-go/pull/280))
 
 - ThreeDotsLabs/watermill-nats - jetstream: support new pull subscriber API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/12))
 
