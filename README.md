@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- nats-io/nats.go - jetstream: add option to pass arbitrary headers on publish ([OPEN](https://github.com/nats-io/nats.go/pull/1392))
+
 - ThreeDotsLabs/watermill-nats - jetstream: introduce dedicated package using new API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/13))
 
 - plaid/plaid-go - Add helper function for easier PlaidError test setup ([CLOSED](https://github.com/plaid/plaid-go/pull/280))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - ThreeDotsLabs/watermill-nats - jetstream: support new pull subscriber API ([CLOSED](https://github.com/ThreeDotsLabs/watermill-nats/pull/12))
 
 - keratin/authn-server - prepare 1.17.1 ([MERGED](https://github.com/keratin/authn-server/pull/219))
-
-- keratin/authn-server - ci: add lint step ([MERGED](https://github.com/keratin/authn-server/pull/218))
 
 
 #### 🌱 Newest Repos (forks excluded)
