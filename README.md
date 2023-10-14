@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- edgexfoundry/go-mod-messaging - test: Remove JetStream Integration Tests ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/285))
+
+- keratin/authn-server - feat: add support for TOTP multi-factor authentication ([OPEN](https://github.com/keratin/authn-server/pull/220))
+
 - edgexfoundry/edgex-docs - docs: Note Background Publisher Deprecation in Advanced Topics ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1227))
 
 - nats-io/nats.go - jetstream: add option to pass arbitrary headers on publish ([OPEN](https://github.com/nats-io/nats.go/pull/1392))
 
 - ThreeDotsLabs/watermill-nats - jetstream: introduce dedicated package using new API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/13))
-
-- plaid/plaid-go - Add helper function for easier PlaidError test setup ([CLOSED](https://github.com/plaid/plaid-go/pull/280))
-
-- ThreeDotsLabs/watermill-nats - jetstream: support new pull subscriber API ([CLOSED](https://github.com/ThreeDotsLabs/watermill-nats/pull/12))
 
 
 #### 🌱 Newest Repos (forks excluded)
