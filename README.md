@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- edgexfoundry/go-mod-messaging - test: Remove JetStream Integration Tests ([OPEN](https://github.com/edgexfoundry/go-mod-messaging/pull/285))
+- edgexfoundry/go-mod-messaging - test: Remove JetStream Integration Tests ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/285))
 
 - keratin/authn-server - feat: add support for TOTP multi-factor authentication ([OPEN](https://github.com/keratin/authn-server/pull/220))
 
