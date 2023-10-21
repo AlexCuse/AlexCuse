@@ -16,7 +16,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 - nats-io/nats.go - jetstream: add option to pass arbitrary headers on publish ([OPEN](https://github.com/nats-io/nats.go/pull/1392))
 
-- ThreeDotsLabs/watermill-nats - jetstream: introduce dedicated package using new API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/13))
+- ThreeDotsLabs/watermill-nats - jetstream: introduce experimental package using new API ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/13))
 
 
 #### 🌱 Newest Repos (forks excluded)
