@@ -21,11 +21,11 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🌱 Newest Repos (forks excluded)
 
+- [AlexCuse/oapi-authn-demo](https://github.com/AlexCuse/oapi-authn-demo) - 
 - [AlexCuse/watermill-pulsar](https://github.com/AlexCuse/watermill-pulsar) - 
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) - 
 - [AlexCuse/picklebot](https://github.com/AlexCuse/picklebot) - raspberry pi / GPIO projects w pickle
 - [AlexCuse/yogo](https://github.com/AlexCuse/yogo) - 
-- [AlexCuse/edgex-watermill](https://github.com/AlexCuse/edgex-watermill) - Watermill pub-sub binding for edgexfoundry application functions
 
 #### 📫 How to reach me
 
