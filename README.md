@@ -21,7 +21,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🌱 Newest Repos (forks excluded)
 
-- [AlexCuse/oapi-authn-demo](https://github.com/AlexCuse/oapi-authn-demo) - 
+- [AlexCuse/todo-authn](https://github.com/AlexCuse/todo-authn) - 
 - [AlexCuse/watermill-pulsar](https://github.com/AlexCuse/watermill-pulsar) - 
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) - 
 - [AlexCuse/picklebot](https://github.com/AlexCuse/picklebot) - raspberry pi / GPIO projects w pickle
