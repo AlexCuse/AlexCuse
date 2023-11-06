@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-go - build: setup linting to match server ([OPEN](https://github.com/keratin/authn-go/pull/26))
+- keratin/authn-server - deps: switch to modernc.org/sqlite for pure go builds ([OPEN](https://github.com/keratin/authn-server/pull/221))
+
+- keratin/authn-go - build: setup linting to match server ([MERGED](https://github.com/keratin/authn-go/pull/26))
 
 - keratin/authn-go - deps: update to latest versions ([MERGED](https://github.com/keratin/authn-go/pull/25))
 
 - ThreeDotsLabs/watermill - ci: update setup-go and checkout to latest action versions ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/406))
 
 - ThreeDotsLabs/watermill - docs: add note on NATS jetstream beta package ([OPEN](https://github.com/ThreeDotsLabs/watermill/pull/405))
-
-- edgexfoundry/go-mod-messaging - test: Remove JetStream Integration Tests ([MERGED](https://github.com/edgexfoundry/go-mod-messaging/pull/285))
 
 
 #### 🌱 Newest Repos (forks excluded)
