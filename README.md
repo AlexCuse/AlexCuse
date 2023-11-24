@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-js - feat: add TOTP MFA functions ([OPEN](https://github.com/keratin/authn-js/pull/60))
+
 - keratin/authn-js - cookie store: allow setting explicit domain ([OPEN](https://github.com/keratin/authn-js/pull/59))
 
 - ThreeDotsLabs/watermill-nats - jetstream: fix test_race failures ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/18))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - deps: switch to modernc.org/sqlite for pure go builds ([OPEN](https://github.com/keratin/authn-server/pull/221))
 
 - keratin/authn-go - build: setup linting to match server ([MERGED](https://github.com/keratin/authn-go/pull/26))
-
-- keratin/authn-go - deps: update to latest versions ([MERGED](https://github.com/keratin/authn-go/pull/25))
 
 
 #### 🌱 Newest Repos (forks excluded)
