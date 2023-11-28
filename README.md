@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([OPEN](https://github.com/edgexfoundry/edgex-docs/pull/1311))
+- edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
 
 - keratin/authn-js - feat: add TOTP MFA functions ([OPEN](https://github.com/keratin/authn-js/pull/60))
 
