@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-server - admin: clear TOTP secret when expiring password ([OPEN](https://github.com/keratin/authn-server/pull/231))
+
+- keratin/authn-server - claims: add amr for authentication method ([OPEN](https://github.com/keratin/authn-server/pull/230))
+
 - edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
 
 - keratin/authn-js - feat: add TOTP MFA functions ([OPEN](https://github.com/keratin/authn-js/pull/60))
 
 - keratin/authn-js - cookie store: allow setting explicit domain ([OPEN](https://github.com/keratin/authn-js/pull/59))
-
-- ThreeDotsLabs/watermill-nats - jetstream: fix test_race failures ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/18))
-
-- keratin/authn-server - deps: switch to modernc.org/sqlite for pure go builds ([OPEN](https://github.com/keratin/authn-server/pull/221))
 
 
 #### 🌱 Newest Repos (forks excluded)
