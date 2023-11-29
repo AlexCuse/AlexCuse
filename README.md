@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
+
 - keratin/authn-server - admin: clear TOTP secret when expiring password ([OPEN](https://github.com/keratin/authn-server/pull/231))
 
 - keratin/authn-server - claims: add amr for authentication method ([OPEN](https://github.com/keratin/authn-server/pull/230))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
 
 - keratin/authn-js - feat: add TOTP MFA functions ([OPEN](https://github.com/keratin/authn-js/pull/60))
-
-- keratin/authn-js - cookie store: allow setting explicit domain ([OPEN](https://github.com/keratin/authn-js/pull/59))
 
 
 #### 🌱 Newest Repos (forks excluded)
