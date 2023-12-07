@@ -10,9 +10,9 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 - AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
 
-- keratin/authn-server - admin: clear TOTP secret when expiring password ([OPEN](https://github.com/keratin/authn-server/pull/231))
+- keratin/authn-server - admin: clear TOTP secret when expiring password ([MERGED](https://github.com/keratin/authn-server/pull/231))
 
-- keratin/authn-server - claims: add amr for authentication method ([OPEN](https://github.com/keratin/authn-server/pull/230))
+- keratin/authn-server - claims: add amr for authentication method ([MERGED](https://github.com/keratin/authn-server/pull/230))
 
 - edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
 
