@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-server - prepare 1.18.0 ([OPEN](https://github.com/keratin/authn-server/pull/232))
+
 - AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
 
 - keratin/authn-server - admin: clear TOTP secret when expiring password ([MERGED](https://github.com/keratin/authn-server/pull/231))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - claims: add amr for authentication method ([MERGED](https://github.com/keratin/authn-server/pull/230))
 
 - edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
-
-- keratin/authn-js - feat: add TOTP MFA functions ([OPEN](https://github.com/keratin/authn-js/pull/60))
 
 
 #### 🌱 Newest Repos (forks excluded)
