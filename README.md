@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-server - prepare 1.18.0 ([OPEN](https://github.com/keratin/authn-server/pull/232))
+- keratin/authn-server - prepare 1.18.0 ([MERGED](https://github.com/keratin/authn-server/pull/232))
 
 - AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
 
