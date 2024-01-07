@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-server - CI: update maintained actions to eliminate node warnings ([OPEN](https://github.com/keratin/authn-server/pull/237))
+
+- keratin/authn-server - oauth: get signing key from provider ([OPEN](https://github.com/keratin/authn-server/pull/236))
+
 - keratin/authn-server - prepare 1.18.0 ([MERGED](https://github.com/keratin/authn-server/pull/232))
 
 - AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
 
 - keratin/authn-server - admin: clear TOTP secret when expiring password ([MERGED](https://github.com/keratin/authn-server/pull/231))
-
-- keratin/authn-server - claims: add amr for authentication method ([MERGED](https://github.com/keratin/authn-server/pull/230))
-
-- edgexfoundry/edgex-docs - docs: Add NATS JetStream ExactlyOnce Configuration ([MERGED](https://github.com/edgexfoundry/edgex-docs/pull/1311))
 
 
 #### 🌱 Newest Repos (forks excluded)
