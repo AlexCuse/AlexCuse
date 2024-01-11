@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- ThreeDotsLabs/watermill-nats - use jetstream drain ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/21))
+
 - keratin/authn-server - CI: update maintained actions to eliminate node warnings ([OPEN](https://github.com/keratin/authn-server/pull/237))
 
 - keratin/authn-server - oauth: get signing key from provider ([OPEN](https://github.com/keratin/authn-server/pull/236))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - prepare 1.18.0 ([MERGED](https://github.com/keratin/authn-server/pull/232))
 
 - AlexCuse/picklebot - update to edgex 3 ([OPEN](https://github.com/AlexCuse/picklebot/pull/9))
-
-- keratin/authn-server - admin: clear TOTP secret when expiring password ([MERGED](https://github.com/keratin/authn-server/pull/231))
 
 
 #### 🌱 Newest Repos (forks excluded)
