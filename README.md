@@ -14,7 +14,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 - keratin/authn-server - CI: update maintained actions to eliminate node warnings ([OPEN](https://github.com/keratin/authn-server/pull/237))
 
-- keratin/authn-server - oauth: get signing key from provider ([OPEN](https://github.com/keratin/authn-server/pull/236))
+- keratin/authn-server - oauth: get signing key from provider ([MERGED](https://github.com/keratin/authn-server/pull/236))
 
 - keratin/authn-server - prepare 1.18.0 ([MERGED](https://github.com/keratin/authn-server/pull/232))
 
