@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-server - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([OPEN](https://github.com/keratin/authn-server/pull/240))
+- keratin/authn-go - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([OPEN](https://github.com/keratin/authn-go/pull/29))
 
-- keratin/authn-server - chore: migrate deprecated ioutil usage to io package ([OPEN](https://github.com/keratin/authn-server/pull/238))
+- keratin/authn-server - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([MERGED](https://github.com/keratin/authn-server/pull/240))
+
+- keratin/authn-server - chore: migrate deprecated ioutil usage to io package ([MERGED](https://github.com/keratin/authn-server/pull/238))
 
 - golang/oauth2 - endpoints: add Apple ([OPEN](https://github.com/golang/oauth2/pull/695))
 
 - ThreeDotsLabs/watermill-nats - use jetstream drain ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/21))
-
-- keratin/authn-server - CI: update maintained actions to eliminate node warnings ([OPEN](https://github.com/keratin/authn-server/pull/237))
 
 
 #### 🌱 Newest Repos (forks excluded)
