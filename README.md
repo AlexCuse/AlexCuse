@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-js - prepare 1.4.1 release ([OPEN](https://github.com/keratin/authn-js/pull/64))
+
 - keratin/authn-go - chore: prepare v1.2.1 release ([MERGED](https://github.com/keratin/authn-go/pull/30))
 
 - keratin/authn-go - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([MERGED](https://github.com/keratin/authn-go/pull/29))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([MERGED](https://github.com/keratin/authn-server/pull/240))
 
 - keratin/authn-server - chore: migrate deprecated ioutil usage to io package ([MERGED](https://github.com/keratin/authn-server/pull/238))
-
-- golang/oauth2 - endpoints: add Apple ([OPEN](https://github.com/golang/oauth2/pull/695))
 
 
 #### 🌱 Newest Repos (forks excluded)
