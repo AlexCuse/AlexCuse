@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-go - chore: prepare v1.2.1 release ([OPEN](https://github.com/keratin/authn-go/pull/30))
+- keratin/authn-go - chore: prepare v1.2.1 release ([MERGED](https://github.com/keratin/authn-go/pull/30))
 
 - keratin/authn-go - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([MERGED](https://github.com/keratin/authn-go/pull/29))
 
