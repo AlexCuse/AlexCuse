@@ -10,7 +10,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 - keratin/authn-server - oauth: allow passing additional credential data to providers ([OPEN](https://github.com/keratin/authn-server/pull/241))
 
-- keratin/authn-js - prepare 1.5.0 release ([OPEN](https://github.com/keratin/authn-js/pull/65))
+- keratin/authn-js - prepare 1.5.0 release ([MERGED](https://github.com/keratin/authn-js/pull/65))
 
 - keratin/authn-js - prepare 1.4.1 release ([MERGED](https://github.com/keratin/authn-js/pull/64))
 
