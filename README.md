@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-server - oauth: add sign-in with apple support (fixes #110) ([OPEN](https://github.com/keratin/authn-server/pull/243))
+
 - keratin/authn-server - oauth: allow passing additional credential data to providers ([OPEN](https://github.com/keratin/authn-server/pull/241))
 
 - keratin/authn-js - prepare 1.5.0 release ([MERGED](https://github.com/keratin/authn-js/pull/65))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-js - prepare 1.4.1 release ([MERGED](https://github.com/keratin/authn-js/pull/64))
 
 - keratin/authn-go - chore: prepare v1.2.1 release ([MERGED](https://github.com/keratin/authn-go/pull/30))
-
-- keratin/authn-go - chore: use github.com/go-jose/go-jose/v3 over deprecated square package ([MERGED](https://github.com/keratin/authn-go/pull/29))
 
 
 #### 🌱 Newest Repos (forks excluded)
