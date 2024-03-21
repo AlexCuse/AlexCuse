@@ -8,7 +8,7 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-server - prepare 1.18.1 ([OPEN](https://github.com/keratin/authn-server/pull/247))
+- keratin/authn-server - prepare 1.18.1 ([MERGED](https://github.com/keratin/authn-server/pull/247))
 
 - ThreeDotsLabs/watermill-nats - jetstream: support async acknowledgement in subscriber ([OPEN](https://github.com/ThreeDotsLabs/watermill-nats/pull/22))
 
