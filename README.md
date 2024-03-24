@@ -8,15 +8,15 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
-- keratin/authn-server - oauth: use provider-specific key for verification (fixes #248) ([OPEN](https://github.com/keratin/authn-server/pull/249))
+- keratin/authn-server - Revert &#34;oauth: get signing key from provider (#236)&#34; ([MERGED](https://github.com/keratin/authn-server/pull/250))
+
+- keratin/authn-server - oauth: use provider-specific key for verification (fixes #248) ([CLOSED](https://github.com/keratin/authn-server/pull/249))
 
 - keratin/authn-server - prepare 1.18.1 ([MERGED](https://github.com/keratin/authn-server/pull/247))
 
 - ThreeDotsLabs/watermill-nats - jetstream: support async acknowledgement in subscriber ([MERGED](https://github.com/ThreeDotsLabs/watermill-nats/pull/22))
 
 - keratin/authn-server - oauth: add sign-in with apple support (fixes #110) ([OPEN](https://github.com/keratin/authn-server/pull/243))
-
-- keratin/authn-server - oauth: allow passing additional credential data to providers ([OPEN](https://github.com/keratin/authn-server/pull/241))
 
 
 #### 🌱 Newest Repos (forks excluded)
