@@ -8,6 +8,8 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 
 #### 🔭 Newest PRs
 
+- keratin/authn-server - prepare v1.20.1 ([CLOSED](https://github.com/keratin/authn-server/pull/261))
+
 - diegosperes/authn-server - update changelog ([MERGED](https://github.com/diegosperes/authn-server/pull/3))
 
 - keratin/authn-server - prepare v1.19.0 ([MERGED](https://github.com/keratin/authn-server/pull/255))
@@ -15,8 +17,6 @@ I used to maintain the [SquishIt](https://nuget.org/packages/SquishIt) package f
 - keratin/authn-server - prepare 1.18.2 ([MERGED](https://github.com/keratin/authn-server/pull/251))
 
 - keratin/authn-server - Revert &#34;oauth: get signing key from provider (#236)&#34; ([MERGED](https://github.com/keratin/authn-server/pull/250))
-
-- keratin/authn-server - oauth: use provider-specific key for verification (fixes #248) ([CLOSED](https://github.com/keratin/authn-server/pull/249))
 
 
 #### 🌱 Newest Repos (forks excluded)
